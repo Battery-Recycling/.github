@@ -44,9 +44,7 @@ For questions or collaboration ideas, use the organization’s discussion board 
 
     <!-- Right column -->
     <td style="width:200px; vertical-align:top; text-align:right;">
-      <img src="https://ecostrat.com/wp-content/uploads/nrcan-logo.png"
-           alt="NRCan Logo"
-           style="max-width:180px;">
+        ![Description](https://ecostrat.com/wp-content/uploads/nrcan-logo.png)
     </td>
   </tr>
 </table>

@@ -16,22 +16,25 @@ Our goal is to create transparent, reproducible, and high-impact software that h
 ## Focus Areas
 
 ### Battery Recycling
-
 - Process-modeling and simulation tools
 - Material separation and recovery workflows
 - Data engineering for experimental and characterization pipelines
 
 ### Self-Driving Labs
-
 - Automation frameworks for closed-loop experimentation
 - Orchestration tools for hardware, robotics, and ML models
 - Interfaces for lab control, experiment scheduling, and data capture
 
 ### Active Learning
-
 - Autonomous experiment–model loops
 - Query strategies for expensive measurements
 - Benchmark tools for evaluating decision policies
 
+## Contact
+For questions or collaboration ideas, use the organization’s discussion board or open an issue. Alternately, you can contact us at 
+
+- Vahid Attari
+- Affilation: Natural Resources Canada (NRCan)
+- vahid.attari@nrcan-rncan.gc.ca# HTP-Recovery-Modeling---NaOH-base
 
 

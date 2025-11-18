@@ -37,6 +37,7 @@ For questions or collaboration ideas, use the organization’s discussion board 
 - Affiliation: Natural Resources Canada (NRCan)
 - Email: vahid.attari@nrcan-rncan.gc.ca
  
-![Description](https://ecostrat.com/wp-content/uploads/nrcan-logo.png)
-
+<p align="center">
+  <img src="https://ecostrat.com/wp-content/uploads/nrcan-logo.png" width="250"/>
+</p>
 

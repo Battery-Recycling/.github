@@ -33,20 +33,10 @@ Our goal is to create transparent, reproducible, and high-impact software that h
 ## Contact
 For questions or collaboration ideas, use the organization’s discussion board or open an issue. Alternately, you can contact us at 
 
-<table style="width:100%; border-collapse:collapse;">
-  <tr>
-    <!-- Left column -->
-    <td style="vertical-align:top; padding-right:20px;">
-      <h3>Vahid Attari</h3>
-      <p><strong>Affiliation:</strong> Natural Resources Canada (NRCan)</p>
-      <p><strong>Email:</strong> vahid.attari@nrcan-rncan.gc.ca</p>
-    </td>
-
-    <!-- Right column -->
-    <td style="width:200px; vertical-align:top; text-align:right;">
-        ![Description](https://ecostrat.com/wp-content/uploads/nrcan-logo.png)
-    </td>
-  </tr>
-</table>
+- Vahid Attari
+- Affiliation: Natural Resources Canada (NRCan)
+- Email: vahid.attari@nrcan-rncan.gc.ca
+ 
+![Description](https://ecostrat.com/wp-content/uploads/nrcan-logo.png)
 
 

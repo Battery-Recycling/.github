@@ -35,6 +35,5 @@ For questions or collaboration ideas, use the organization’s discussion board 
 
 - Vahid Attari
 - Affilation: Natural Resources Canada (NRCan)
-- vahid.attari@nrcan-rncan.gc.ca# HTP-Recovery-Modeling---NaOH-base
-
+- vahid.attari@nrcan-rncan.gc.ca
 
